@@ -5,6 +5,10 @@ Resolving merge conflicts with p4merge.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ## Deployment
+
+Not to be deployed.
+
+## Another paragraph
