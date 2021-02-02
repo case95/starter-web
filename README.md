@@ -21,4 +21,4 @@ Another description.
 
 ## And another one
 
-Copyright 2021 Lorenzo Del Rosario
+Copyright 2021 Lorenzo Del Rosario. All rights reserved.
